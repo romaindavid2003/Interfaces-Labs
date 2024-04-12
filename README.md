@@ -1,2 +1,2 @@
 # Interfaces-Labs
-Interseting TP's of the IGR classes
+Interesting TP's of the IGR classes
